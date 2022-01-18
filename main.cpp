@@ -4,8 +4,8 @@
 
 int main() {
 
-    const char* model_path = "F:\\code\\fall_online_demo\\";
-    const char* image_file = "F:\\code\\fall_online_demo\\fall_online_demo\\human\\2.jpg";
+    const char* model_path = ".\\face\\";
+    const char* image_file = ".\\human\\2.jpg";
 
     centerface* centerface_ = new centerface();
 
